@@ -16,8 +16,8 @@
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "279749BB1897134800880AAC"
                BuildableName = "Minion.app"
-               BlueprintName = "Minion"
-               ReferencedContainer = "container:Minion.xcodeproj">
+               BlueprintName = "FamilyGuy"
+               ReferencedContainer = "container:FamilyGuy.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -34,8 +34,8 @@
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "279749DF1897134800880AAC"
                BuildableName = "MinionTests.xctest"
-               BlueprintName = "MinionTests"
-               ReferencedContainer = "container:Minion.xcodeproj">
+               BlueprintName = "FamilyGuyTests"
+               ReferencedContainer = "container:FamilyGuy.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -44,8 +44,8 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "279749BB1897134800880AAC"
             BuildableName = "Minion.app"
-            BlueprintName = "Minion"
-            ReferencedContainer = "container:Minion.xcodeproj">
+            BlueprintName = "FamilyGuy"
+            ReferencedContainer = "container:FamilyGuy.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -63,8 +63,8 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "279749BB1897134800880AAC"
             BuildableName = "Minion.app"
-            BlueprintName = "Minion"
-            ReferencedContainer = "container:Minion.xcodeproj">
+            BlueprintName = "FamilyGuy"
+            ReferencedContainer = "container:FamilyGuy.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -81,8 +81,8 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "279749BB1897134800880AAC"
             BuildableName = "Minion.app"
-            BlueprintName = "Minion"
-            ReferencedContainer = "container:Minion.xcodeproj">
+            BlueprintName = "FamilyGuy"
+            ReferencedContainer = "container:FamilyGuy.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

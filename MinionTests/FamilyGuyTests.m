@@ -1,6 +1,6 @@
 //
-//  MinionTests.m
-//  MinionTests
+//  FamilyGuyTests.m
+//  FamilyGuyTests
 //
 //  Created by Yuk Lai Suen on 1/27/14.
 //  Copyright (c) 2014 Yuk Lai Suen. All rights reserved.
@@ -8,11 +8,11 @@
 
 #import <XCTest/XCTest.h>
 
-@interface MinionTests : XCTestCase
+@interface FamilyGuyTests : XCTestCase
 
 @end
 
-@implementation MinionTests
+@implementation FamilyGuyTests
 
 - (void)setUp
 {

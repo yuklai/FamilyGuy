@@ -1,6 +1,6 @@
 //
 //  HHMessage.m
-//  Minion
+//  FamilyGuy
 //
 //  Created by Yuk Lai Suen on 1/27/14.
 //  Copyright (c) 2014 Yuk Lai Suen. All rights reserved.

@@ -21,7 +21,7 @@
 		279749E31897134800880AAC /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 279749BF1897134800880AAC /* Foundation.framework */; };
 		279749E41897134800880AAC /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 279749C31897134800880AAC /* UIKit.framework */; };
 		279749EC1897134800880AAC /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 279749EA1897134800880AAC /* InfoPlist.strings */; };
-		279749EE1897134800880AAC /* MinionTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 279749ED1897134800880AAC /* MinionTests.m */; };
+		279749EE1897134800880AAC /* FamilyGuyTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 279749ED1897134800880AAC /* FamilyGuyTests.m */; };
 		279749F91897136200880AAC /* HHUser.m in Sources */ = {isa = PBXBuildFile; fileRef = 279749F81897136200880AAC /* HHUser.m */; };
 		279749FC1897136C00880AAC /* HHMessage.m in Sources */ = {isa = PBXBuildFile; fileRef = 279749FB1897136C00880AAC /* HHMessage.m */; };
 		279749FF189713B500880AAC /* HHServerManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 279749FE189713B500880AAC /* HHServerManager.m */; };
@@ -38,14 +38,14 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		279749BC1897134800880AAC /* Minion.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Minion.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		279749BC1897134800880AAC /* FamilyGuy.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FamilyGuy.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		279749BF1897134800880AAC /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		279749C11897134800880AAC /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
 		279749C31897134800880AAC /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
-		279749C71897134800880AAC /* Minion-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Minion-Info.plist"; sourceTree = "<group>"; };
+		279749C71897134800880AAC /* FamilyGuy-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "FamilyGuy-Info.plist"; sourceTree = "<group>"; };
 		279749C91897134800880AAC /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		279749CB1897134800880AAC /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		279749CD1897134800880AAC /* Minion-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Minion-Prefix.pch"; sourceTree = "<group>"; };
+		279749CD1897134800880AAC /* FamilyGuy-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "FamilyGuy-Prefix.pch"; sourceTree = "<group>"; };
 		279749CE1897134800880AAC /* HHAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = HHAppDelegate.h; sourceTree = "<group>"; };
 		279749CF1897134800880AAC /* HHAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = HHAppDelegate.m; sourceTree = "<group>"; };
 		279749D21897134800880AAC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main_iPhone.storyboard; sourceTree = "<group>"; };
@@ -53,11 +53,11 @@
 		279749D71897134800880AAC /* HHViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = HHViewController.h; sourceTree = "<group>"; };
 		279749D81897134800880AAC /* HHViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = HHViewController.m; sourceTree = "<group>"; };
 		279749DA1897134800880AAC /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
-		279749E01897134800880AAC /* MinionTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MinionTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		279749E01897134800880AAC /* FamilyGuyTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FamilyGuyTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		279749E11897134800880AAC /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
-		279749E91897134800880AAC /* MinionTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "MinionTests-Info.plist"; sourceTree = "<group>"; };
+		279749E91897134800880AAC /* FamilyGuyTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "FamilyGuyTests-Info.plist"; sourceTree = "<group>"; };
 		279749EB1897134800880AAC /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
-		279749ED1897134800880AAC /* MinionTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MinionTests.m; sourceTree = "<group>"; };
+		279749ED1897134800880AAC /* FamilyGuyTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = FamilyGuyTests.m; sourceTree = "<group>"; };
 		279749F71897136200880AAC /* HHUser.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HHUser.h; sourceTree = "<group>"; };
 		279749F81897136200880AAC /* HHUser.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HHUser.m; sourceTree = "<group>"; };
 		279749FA1897136C00880AAC /* HHMessage.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HHMessage.h; sourceTree = "<group>"; };
@@ -93,8 +93,8 @@
 		279749B31897134800880AAC = {
 			isa = PBXGroup;
 			children = (
-				279749C51897134800880AAC /* Minion */,
-				279749E71897134800880AAC /* MinionTests */,
+				279749C51897134800880AAC /* FamilyGuy */,
+				279749E71897134800880AAC /* FamilyGuyTests */,
 				279749BE1897134800880AAC /* Frameworks */,
 				279749BD1897134800880AAC /* Products */,
 			);
@@ -103,8 +103,8 @@
 		279749BD1897134800880AAC /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				279749BC1897134800880AAC /* Minion.app */,
-				279749E01897134800880AAC /* MinionTests.xctest */,
+				279749BC1897134800880AAC /* FamilyGuy.app */,
+				279749E01897134800880AAC /* FamilyGuyTests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -120,7 +120,7 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
-		279749C51897134800880AAC /* Minion */ = {
+		279749C51897134800880AAC /* FamilyGuy */ = {
 			isa = PBXGroup;
 			children = (
 				279749CE1897134800880AAC /* HHAppDelegate.h */,
@@ -138,33 +138,35 @@
 				279749FD189713B500880AAC /* HHServerManager.h */,
 				279749FE189713B500880AAC /* HHServerManager.m */,
 			);
+			name = FamilyGuy;
 			path = Minion;
 			sourceTree = "<group>";
 		};
 		279749C61897134800880AAC /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				279749C71897134800880AAC /* Minion-Info.plist */,
+				279749C71897134800880AAC /* FamilyGuy-Info.plist */,
 				279749C81897134800880AAC /* InfoPlist.strings */,
 				279749CB1897134800880AAC /* main.m */,
-				279749CD1897134800880AAC /* Minion-Prefix.pch */,
+				279749CD1897134800880AAC /* FamilyGuy-Prefix.pch */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
-		279749E71897134800880AAC /* MinionTests */ = {
+		279749E71897134800880AAC /* FamilyGuyTests */ = {
 			isa = PBXGroup;
 			children = (
-				279749ED1897134800880AAC /* MinionTests.m */,
+				279749ED1897134800880AAC /* FamilyGuyTests.m */,
 				279749E81897134800880AAC /* Supporting Files */,
 			);
+			name = FamilyGuyTests;
 			path = MinionTests;
 			sourceTree = "<group>";
 		};
 		279749E81897134800880AAC /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				279749E91897134800880AAC /* MinionTests-Info.plist */,
+				279749E91897134800880AAC /* FamilyGuyTests-Info.plist */,
 				279749EA1897134800880AAC /* InfoPlist.strings */,
 			);
 			name = "Supporting Files";
@@ -173,9 +175,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		279749BB1897134800880AAC /* Minion */ = {
+		279749BB1897134800880AAC /* FamilyGuy */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 279749F11897134800880AAC /* Build configuration list for PBXNativeTarget "Minion" */;
+			buildConfigurationList = 279749F11897134800880AAC /* Build configuration list for PBXNativeTarget "FamilyGuy" */;
 			buildPhases = (
 				279749B81897134800880AAC /* Sources */,
 				279749B91897134800880AAC /* Frameworks */,
@@ -185,14 +187,14 @@
 			);
 			dependencies = (
 			);
-			name = Minion;
+			name = FamilyGuy;
 			productName = Minion;
-			productReference = 279749BC1897134800880AAC /* Minion.app */;
+			productReference = 279749BC1897134800880AAC /* FamilyGuy.app */;
 			productType = "com.apple.product-type.application";
 		};
-		279749DF1897134800880AAC /* MinionTests */ = {
+		279749DF1897134800880AAC /* FamilyGuyTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 279749F41897134800880AAC /* Build configuration list for PBXNativeTarget "MinionTests" */;
+			buildConfigurationList = 279749F41897134800880AAC /* Build configuration list for PBXNativeTarget "FamilyGuyTests" */;
 			buildPhases = (
 				279749DC1897134800880AAC /* Sources */,
 				279749DD1897134800880AAC /* Frameworks */,
@@ -203,9 +205,9 @@
 			dependencies = (
 				279749E61897134800880AAC /* PBXTargetDependency */,
 			);
-			name = MinionTests;
+			name = FamilyGuyTests;
 			productName = MinionTests;
-			productReference = 279749E01897134800880AAC /* MinionTests.xctest */;
+			productReference = 279749E01897134800880AAC /* FamilyGuyTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
 /* End PBXNativeTarget section */
@@ -223,7 +225,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 279749B71897134800880AAC /* Build configuration list for PBXProject "Minion" */;
+			buildConfigurationList = 279749B71897134800880AAC /* Build configuration list for PBXProject "FamilyGuy" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -236,8 +238,8 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				279749BB1897134800880AAC /* Minion */,
-				279749DF1897134800880AAC /* MinionTests */,
+				279749BB1897134800880AAC /* FamilyGuy */,
+				279749DF1897134800880AAC /* FamilyGuyTests */,
 			);
 		};
 /* End PBXProject section */
@@ -282,7 +284,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				279749EE1897134800880AAC /* MinionTests.m in Sources */,
+				279749EE1897134800880AAC /* FamilyGuyTests.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -291,7 +293,7 @@
 /* Begin PBXTargetDependency section */
 		279749E61897134800880AAC /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 279749BB1897134800880AAC /* Minion */;
+			target = 279749BB1897134800880AAC /* FamilyGuy */;
 			targetProxy = 279749E51897134800880AAC /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -412,9 +414,9 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "Minion/Minion-Prefix.pch";
-				INFOPLIST_FILE = "Minion/Minion-Info.plist";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				GCC_PREFIX_HEADER = "Minion/FamilyGuy-Prefix.pch";
+				INFOPLIST_FILE = "Minion/FamilyGuy-Info.plist";
+				PRODUCT_NAME = FamilyGuy;
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -425,9 +427,9 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "Minion/Minion-Prefix.pch";
-				INFOPLIST_FILE = "Minion/Minion-Info.plist";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				GCC_PREFIX_HEADER = "Minion/FamilyGuy-Prefix.pch";
+				INFOPLIST_FILE = "Minion/FamilyGuy-Info.plist";
+				PRODUCT_NAME = FamilyGuy;
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
@@ -448,8 +450,8 @@
 					"DEBUG=1",
 					"$(inherited)",
 				);
-				INFOPLIST_FILE = "MinionTests/MinionTests-Info.plist";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				INFOPLIST_FILE = "MinionTests/FamilyGuyTests-Info.plist";
+				PRODUCT_NAME = FamilyGuyTests;
 				TEST_HOST = "$(BUNDLE_LOADER)";
 				WRAPPER_EXTENSION = xctest;
 			};
@@ -467,8 +469,8 @@
 				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "Minion/Minion-Prefix.pch";
-				INFOPLIST_FILE = "MinionTests/MinionTests-Info.plist";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				INFOPLIST_FILE = "MinionTests/FamilyGuyTests-Info.plist";
+				PRODUCT_NAME = FamilyGuyTests;
 				TEST_HOST = "$(BUNDLE_LOADER)";
 				WRAPPER_EXTENSION = xctest;
 			};
@@ -477,7 +479,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		279749B71897134800880AAC /* Build configuration list for PBXProject "Minion" */ = {
+		279749B71897134800880AAC /* Build configuration list for PBXProject "FamilyGuy" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				279749EF1897134800880AAC /* Debug */,
@@ -486,7 +488,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		279749F11897134800880AAC /* Build configuration list for PBXNativeTarget "Minion" */ = {
+		279749F11897134800880AAC /* Build configuration list for PBXNativeTarget "FamilyGuy" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				279749F21897134800880AAC /* Debug */,
@@ -494,7 +496,7 @@
 			);
 			defaultConfigurationIsVisible = 0;
 		};
-		279749F41897134800880AAC /* Build configuration list for PBXNativeTarget "MinionTests" */ = {
+		279749F41897134800880AAC /* Build configuration list for PBXNativeTarget "FamilyGuyTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				279749F51897134800880AAC /* Debug */,
